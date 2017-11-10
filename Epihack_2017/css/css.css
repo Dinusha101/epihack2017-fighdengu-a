@@ -1,0 +1,716 @@
+/* CSS Document */
+/*@import url("http://cdn.webrupee.com/font");*/
+
+body{margin:0px 0 7px 0px; padding:0px; font-family: Arial, Helvetica, sans-serif; font-size:12px; color:#000000; line-height:20px; background:url(../images/body-bg.jpg) #f8f8f8 repeat-x top; }
+
+/*------------- Start Top Banner -------------*/
+
+
+.top_date{font-family: Arial, Helvetica, sans-serif; font-size:12px; text-align:center; color:#000000; line-height:40px;}
+
+.title{font-family:Arial, Helvetica, sans-serif; font-size:18px; font-weight:400; color:#efefef; text-transform:uppercase; padding-left:5px; text-shadow: 0px 1px 2px #000;}
+.title2{font-family:Arial, Helvetica, sans-serif; font-size:18px; font-weight:400; color:#efefef; text-shadow: 0px 1px 2px #000;}
+
+
+.student_imgpad{padding-top:2px;}
+
+.line_height{line-height:6px;}
+
+.textbox
+{
+width:100px;
+}
+
+a.order_link:link{font-family:Verdana, Arial, Helvetica, sans-serif; font-size:11px; font-weight:800; color:#0082a7; text-decoration:none;}
+a.order_link:visited{font-family:Verdana, Arial, Helvetica, sans-serif; font-size:11px; font-weight:800; color:#0082a7; text-decoration:none;}
+a.order_link:hover{text-decoration:underline; color:#333;}
+
+
+
+a.top_link:link, a.top_link:visited{font-family: Arial, Helvetica, sans-serif; font-size:11px; text-align:left; color:#b8b8b8; text-decoration:none; margin-left:15px;}
+a.top_link:hover{color:#d8d8d8;}
+
+.welcome_text{font-family: Arial, Helvetica, sans-serif; font-size:11px; text-align:left; color:#d8d8d8; text-decoration:none; padding-right:6px;}
+
+.user_name{font-family: Arial, Helvetica, sans-serif; font-size:11px; text-align:left; font-weight:bold; color:#fff; text-decoration:none;}
+
+/*------------- End Top Banner -------------*/
+
+/*------------- Start Menu Table -------------*/
+
+.menu_bg{height:30px;}
+
+.blue #slatenav{position:relative;display:block;height:40px;font-size:11px;font-weight:bold; font-size:11px; text-transform:uppercase; font-family:Arial,Helvitica,sans-serif;}
+.blue #slatenav ul{margin:0px;padding:0;list-style-type:none;width:auto;}
+.blue #slatenav ul li{display:block;float:left;margin:0 0px 0 0; background:url(../images/menu-line.gif) no-repeat right;}
+.blue #slatenav ul li a{display:block;float:left;color:#4c4c4c;text-decoration:none;padding:10px 15px 0 15px;height:29px;}
+.blue #slatenav ul li a:hover,.blue #slatenav ul li a.current{color:#fff;background:url(../images/menu_hover.gif) no-repeat center;}
+/* ---------------------- END Blueslate nav ---------------------- */
+
+
+/*------------- Start Menu Table -------------*/
+
+
+a.amrithaa:link, a.amrithaa:visited
+{
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:11px;
+color:#7e7e7e;
+background:url(../images/icon/amrithaa.gif) no-repeat 5px 1px;
+text-decoration:none;
+padding:0px 0px 0px 23px;
+}
+a.amrithaa:hover{color:#606060; text-decoration:underline;}
+
+.white_sep{
+font-family:Tahoma;
+font-size:11px;
+padding:0px 8px 0px 8px;
+color:#a2aecd;
+}
+
+
+/*------------- Start Body Table -------------*/
+
+.body_width{width:100%;}
+
+.body_tablepad{padding-top:12px;}
+
+.righttable_width{width:250px;}
+
+.table-bg{background:#FFFFFF; border:1px solid #d6d6d6; padding:10px 10px; width:100%; }
+
+.lefttable_width{width:99%;}
+
+.top_centerbg{background:#efefef; border-bottom:1px solid #ebebeb; border-top:1px solid #ebebeb; height:31px;}
+
+.center_bg{background:none;}
+
+.bottom_centerbg{background:url(../images/bottom_center.gif) repeat-x top; border-bottom:1px solid #c2e2eb; height:8px;}
+
+.box_headding{font-family:Arial, Helvetica, sans-serif; font-size:12px; font-weight:bold; color:#333; padding-left:5px; text-align:left; line-height:25px; text-transform:uppercase;}
+
+.box-div{width:102px; height:102px; float:left; padding: 15px 19px 15px 19px;}
+.box_bg{background:url(../images/box_bg.gif) no-repeat; width:102px; height:102px; padding:10px 0px;}
+
+.boxtext_center{text-align:center; font-family:Arial, Helvetica, sans-serif; font-size:11px; color:4a6f88; line-height:15px;}
+
+.box_tablepad{padding-top:15px;}
+
+.box_bottompad{padding-bottom:6px;}
+
+a.box_link:link, a.box_link:visited{font-family: Arial, Helvetica, sans-serif; line-height:9pt; font-size:11px; font-weight:400; color:#1a4765; text-decoration:none;}
+a.box_link:hover{text-decoration:none; color:#000;}
+
+a.news_link:link{font-family: Arial, Helvetica, sans-serif; font-size:12px; text-align:left;  color:#277c8c; text-decoration:none;}
+a.news_link:visited{font-family: Arial, Helvetica, sans-serif; font-size:12px; text-align:left; color:#277c8c; text-decoration:none;}
+a.news_link:hover{text-decoration:underline;}
+
+/*------------- Start Body Table -------------*/
+
+/*------------- Start Botoom Table -------------*/
+
+.bottom_bg{background:#f1f1f1; border:1px solid #d6d6d6; margin-top:7px;}
+
+.bottom_text{font-family: Arial, Helvetica, sans-serif; font-size:12px; color:#4c4c4c; text-decoration:none;}
+
+a.bottom_link:link{font-family: Arial, Helvetica, sans-serif; font-size:12px; color:#fff; text-decoration:none;}
+a.bottom_link:visited{font-family: Arial, Helvetica, sans-serif; font-size:12px; color:#fff; text-decoration:none;}
+a.bottom_link:hover{text-decoration:underline;}
+
+/*------------- Start Botoom Table -------------*/
+
+/*------------- Start Inner Page Table -------------*/
+
+.innertop_bg{background:url(../images/innder_topbg.gif) repeat-x;}
+
+.innertop_tablepad{padding-top:0px; padding-bottom:10px;}
+
+a.submenu_link:link{background:url(../images/icon/floder_icon.gif) no-repeat 0px 1px; padding-left:25px; font-weight:bold; font-family: Arial, Helvetica, sans-serif; font-size:12px; color:#656565; text-decoration:none;}
+a.submenu_link:visited{background:url(../images/icon/floder_icon.gif) no-repeat 0px 1px; padding-left:25px; font-weight:bold; font-family: Arial, Helvetica, sans-serif; font-size:12px; color:#656565; text-decoration:none;}
+a.submenu_link:hover{text-decoration:none; color:#000}
+
+.table-border{border-right:1px solid #cccccc;}
+
+/*------------- Start Inner Page Table -------------*/
+
+/*------------- Start Inner Table Design -------------*/
+
+.heading{font-weight:800; text-transform:uppercase; font-family:Arial, Helvetica, sans-serif; font-size:13px; color:#2c2c2c; text-decoration:none;}
+
+.add_button{background:url(../images/center_but.gif) repeat-x;}
+
+.text_box
+{
+font-family:Arial, Helvetica, sans-serif;
+font-size:12px;
+color:#333;
+background:#fafafa;
+border:1px solid #eeeeee;
+padding:4px 0 4px 5px;
+width:280px;
+}
+.text-box{ border:1px solid #e9e9e9; font:12px Arial, Helvetica, sans-serif; margin-bottom:0px; padding:4px 3px; height:16px; background:url(../images/textbox-bg.jpg) repeat-x; color:#333;}
+
+.text-box1{ width:180px; border:1px solid #e9e9e9; font:normal 12px Arial, Helvetica, sans-serif; margin-bottom:0px; padding:3px 3px; height:16px; background:url(../images/textbox-bg.jpg) repeat-x; color:#393939;}
+
+.form-text
+{
+font-family:Arial, Helvetica, sans-serif;
+font-size:12px;
+color:#505050;
+line-height:40px;
+padding-left:10px;
+}
+
+.textarea{ width:470px; border:1px solid #e9e9e9; font:normal 12px Arial, Helvetica, sans-serif; padding:2px 3px 5px 3px; height:100px; background:url(../images/textbox-bg.jpg) repeat-x; color:#393939;}
+
+.listbox{width:253px; border:1px solid #e9e9e9; font:normal 12px Arial, Helvetica, sans-serif; margin-bottom:0px; padding:2px 3px 4px 3px; height:22px; background: url(../images/textbox-bg.jpg) repeat-x #fff; color:#393939;}
+
+
+a.add_link:link{font-family: Arial, Helvetica, sans-serif; font-size:12px; color:#010101; text-decoration:none;}
+a.add_link:visited{font-family: Arial, Helvetica, sans-serif; font-size:12px; color:#010101; text-decoration:none;}
+a.add_link:hover{text-decoration:underline; color:#ad6600;}
+
+
+a.nav_link1:link{font-family: Arial, Helvetica, sans-serif; font-size:12px; color:#003300; text-decoration:none;}
+a.nav_link1:visited{font-family: Arial, Helvetica, sans-serif; font-size:12px; color:#003300; text-decoration:none;}
+a.nav_link1:hover{text-decoration:underline; color:#ad6600;}
+
+a.nav_link2:link{font-family: Arial, Helvetica, sans-serif; font-size:12px; font-weight:bold; color:01862a; text-decoration:none;}
+a.nav_link2:visited{font-family: Arial, Helvetica, sans-serif; font-size:12px; font-weight:bold; color:#01862a; text-decoration:none;}
+a.nav_link2:hover{text-decoration:underline; color:#ad6600;}
+
+
+.active_user{background:url(../images/icon/active_icon.gif) no-repeat 0px 8px; height:30px; padding-left:20px; font-weight:bold; font-family: Arial, Helvetica, sans-serif; font-size:12px; color:#01862a; text-decoration:none;}
+
+.deactive_user{background:url(../images/icon/error_icon.gif) no-repeat 0px 10px; height:30px; padding-left:20px; font-weight:bold; font-family: Arial, Helvetica, sans-serif; font-size:12px; color:#ed2222; text-decoration:none;}
+
+.active_staus{height:30px; font-weight:bold; font-family: Arial, Helvetica, sans-serif; font-size:12px; color:#01862a; text-decoration:none;}
+
+.deactive_staus{height:30px; font-weight:bold; font-family: Arial, Helvetica, sans-serif; font-size:12px; color:#ed2222; text-decoration:none;}
+
+.head_bg{background:url(../images/header-bg.jpg) repeat-x #cdcdcd top; border:1px solid #dedede;}
+
+.head-bor{border:1px solid #dedede; border-top:none; border-bottom:none; border-left:none;}
+
+.head_bg1{background:#fedcdc; border:1px solid #f5b3b3;}
+
+.head_bg2{background:#e8e2d4; border-bottom:1px solid #c1beb5;}
+
+.head_text{font-family: Arial, Helvetica, sans-serif; padding:0px 5px 0px 8px; border-top:1px solid #dedede; border-bottom:1px solid #dedede; border-left:1px solid #cccccc; font-size:12px; color:#616161; font-weight:800; text-decoration:none; line-height:16px; text-shadow: 0px 1px 0px #f2f1f1;}
+
+.head_text1{font-family: Arial, Helvetica, sans-serif; padding-left:10px; font-size:12px; color:#d02121; text-decoration:none; line-height:16px;}
+
+.table_text{font-family: Arial, Helvetica, sans-serif; padding-left:8px; padding-right:5px; font-size:12px; color:#515050; text-decoration:none; line-height:15px; height:50px; border-bottom:1px solid #dedede; border-left:1px solid #cccccc; }
+
+.table_text-right{font-family: Arial, Helvetica, sans-serif; padding-left:10px; font-size:12px; text-align:left; color:#515050; text-decoration:none; line-height:30px; border-bottom:1px solid #dedede; border-right:1px solid #cccccc;  border-left:1px solid #cccccc;}
+
+
+.table_text1{font-family: Arial, Helvetica, sans-serif; padding-left:10px; font-size:12px; text-align:left; color:#515050; text-decoration:none; line-height:30px;}
+
+.content_text{font-family: Arial, Helvetica, sans-serif; padding-left:10px; font-size:12px; text-align:left; color:#515050; text-decoration:none; line-height:30px; border-bottom:1px solid #dedede;}
+
+.table_line{font-family: Arial, Helvetica, sans-serif; font-size:12px; text-align:left; color:#515050; text-decoration:none; line-height:30px; border-bottom:1px solid #f2f2f2;}
+
+.table_brown{font-family: Arial, Helvetica, sans-serif; padding-left:10px; font-size:12px; text-align:left; color:#515050; text-decoration:none; line-height:30px; border-bottom:1px solid #ddddd2;}
+
+.table_content{font-family: Arial, Helvetica, sans-serif; padding-left:15px;  padding-right:15px;font-size:12px; text-align:justify; color:#515050; text-decoration:none; line-height:18px;}
+
+.number_text{font-family: Arial, Helvetica, sans-serif; font-size:12px; text-align:center; color:#515050; text-decoration:none; line-height:30px; border-bottom:1px solid #f2f2f2; }
+
+.table_border{ border-left:1px solid #e9e9e9;  border-right:1px solid #e9e9e9; }
+
+.right_border{border-right:1px solid #e9e9e9; border-bottom:1px solid #f2f2f2; }
+
+a.table_link:link{font-family: Arial, Helvetica, sans-serif; font-size:12px; color:#515050; text-decoration:underline;}
+a.table_link:visited{font-family: Arial, Helvetica, sans-serif; font-size:12px; color:#515050; text-decoration:underline;}
+a.table_link:hover{text-decoration:none; color:#000;}
+
+a.red_link:link{font-family: Arial, Helvetica, sans-serif; font-size:12px; color:#ff0000; text-decoration:none;}
+a.red_link:visited{font-family: Arial, Helvetica, sans-serif; font-size:12px; color:#ff0000; text-decoration:none;}
+a.red_link:hover{text-decoration:underline;}
+
+.row_color{background:#f5f5f5;}
+
+.row_color1{background:#fbfaf6;}
+
+.select_row{background:#ffffcf;}
+
+.select_text{font-family: Arial, Helvetica, sans-serif; padding-left:10px; font-size:12px; text-align:left; color:#515050; text-decoration:none; line-height:30px; border-bottom:1px solid #f3eedb;}
+
+.dotline{background:url(../images/dot_line.gif) repeat-x 0px 15px;}
+
+.dotline-title{background:url(../images/dot_line.gif) repeat-x  center; line-height:10pt;}
+
+.dotline1{background:url(../images/dot_line.gif) repeat-x 0px 13px;}
+
+.innertop_tablepad1{padding-top:10px;}
+
+.submit_button
+{
+cursor:pointer;
+border:none;
+color:#3d2d2d;
+font-size:12px;
+font-weight:bold;
+text-align:left;
+padding-left:28px;
+font-family:Arial, Helvetica, sans-serif;
+height:27px;
+width:91px;
+background:url(../images/submit_buttombg.gif) no-repeat;
+}
+
+.update_button
+{
+cursor:pointer;
+border:none;
+color:#4c4c4c;
+font-size:12px;
+font-weight:bold;
+padding-left:25px;
+text-align:left;
+font-family:Arial, Helvetica, sans-serif;
+height:27px;
+width:91px;
+background:url(../images/update_buttonbg.gif) no-repeat;
+}
+
+.inactive_button
+{
+cursor:pointer;
+border:none;
+color:#e00508;
+font-size:12px;
+font-weight:bold;
+text-align:left;
+padding-left:28px;
+font-family:Arial, Helvetica, sans-serif;
+height:27px;
+width:100px;
+background:url(../images/inactive-bg.gif) no-repeat;
+}
+
+.active_button
+{
+cursor:pointer;
+border:none;
+color:#0e7c0c;
+font-size:12px;
+font-weight:bold;
+text-align:left;
+padding-left:28px;
+font-family:Arial, Helvetica, sans-serif;
+height:27px;
+width:100px;
+background:url(../images/active-bg.gif) no-repeat;
+}
+
+.delete_but
+{
+cursor:pointer;
+border:none;
+color:#e00508;
+font-size:12px;
+font-weight:bold;
+text-align:left;
+padding-left:28px;
+font-family:Arial, Helvetica, sans-serif;
+height:27px;
+width:100px;
+background:url(../images/delete-bg.gif) no-repeat;
+}
+
+.delete_but1
+{
+cursor:pointer;
+border:none;
+color:#e00508;
+font-size:12px;
+font-weight:bold;
+text-align:left;
+padding-left:28px;
+font-family:Arial, Helvetica, sans-serif;
+height:27px;
+width:91px;
+background:url(../images/dele-bg.gif) no-repeat;
+}
+
+.add_but
+{
+cursor:pointer;
+border:none;
+color:#0e7c0c;
+font-size:12px;
+font-weight:bold;
+text-align:left;
+padding-left:28px;
+font-family:Arial, Helvetica, sans-serif;
+height:27px;
+width:91px;
+background:url(../images/add-bg.gif) no-repeat;
+}
+
+.search_but
+{
+cursor:pointer;
+border:none;
+color:#333;
+font-size:12px;
+font-weight:bold;
+text-align:left;
+padding-left:28px;
+font-family:Arial, Helvetica, sans-serif;
+height:27px;
+width:91px;
+background:url(../images/search/search-bg.gif) no-repeat;
+}
+
+.button_bg
+{
+cursor:pointer;
+border:none;
+color:#4c4c4c;
+font-size:12px;
+font-weight:bold;
+text-align:center;
+font-family:Arial, Helvetica, sans-serif;
+height:27px;
+width:100px;
+background:url(../images/buttom_bg.gif) no-repeat;
+}
+
+.button_go
+{
+cursor:pointer;
+border:none;
+color:#4c4c4c;
+font-size:12px;
+font-weight:bold;
+text-align:center;
+font-family:Arial, Helvetica, sans-serif;
+height:27px;
+width:49px;
+background:url(../images/news-go.gif) no-repeat;
+}
+
+
+.button_bg1{
+cursor:pointer;
+border-color:#78c5d4;
+border-bottom-color:#78c5d4;
+border-left-color:#78c5d4;
+border-right-color:#78c5d4;
+border-top-color:#78c5d4;;
+border-style:solid;
+border-width:thin;
+color:#3d3d3d;
+font-size:12px;
+font-weight:bold;
+text-align:center;
+height:27px;
+background-color:#d8f4fa;
+}
+
+.view_button
+{
+cursor:pointer; font-family:Arial, Helvetica, sans-serif;
+border:none;
+color:#3d3d3d;
+font-size:13px;
+font-weight:bold;
+text-align:center;
+height:26px; line-height:26px;
+width:80px;
+background:url(../images/search/search-but.gif) no-repeat;
+}
+
+.delete_button
+{
+cursor:pointer;
+border:none;
+color:#3d3d3d;
+font-size:12px;
+font-weight:bold;
+text-align:center;
+height:24px;
+width:95px;
+background:url(../images/delete_button.gif) no-repeat;
+}
+
+.heading1{font-weight:bold; text-transform:uppercase; font-family:Arial, Helvetica, sans-serif; font-size:13px; color:#2c2c2c; text-decoration:none;}
+
+.heading2{background:url(../images/icon/active_icon.gif) no-repeat 0px 12px;font-weight:bold; text-transform:uppercase; font-family:Arial, Helvetica, sans-serif; font-size:13px; padding-top:10px; padding-left:23px;  padding-bottom:10px; color:#2c2c2c; text-decoration:none;}
+
+.form_text{font-family: Arial, Helvetica, sans-serif; font-size:12px; text-align:left; padding-left:10px; color:#515050; text-decoration:none; line-height:25px; border-bottom:1px solid #f2f2f2; }
+
+.form_text2{font-family: Arial, Helvetica, sans-serif; font-size:12px; text-align:left; padding-left:10px; color:#515050; text-decoration:none; line-height:40px;}
+
+
+.head_border{border-top:1px solid #c1beb5;}
+
+.error_table{background:#ffe5e5; border:1px solid #f99d9d;}
+
+.thanks_table{background:#e4ffe0; border:1px solid #9ddf94;}
+
+.error_text{font-family: Arial, Helvetica, sans-serif; font-size:12px; color:#cf2020; text-align:left; line-height:20px;}
+
+.success_table{background:#d2eccc; border:1px solid #72c367;}
+
+.success_text{font-family: Arial, Helvetica, sans-serif; font-size:12px; color:#197f0a; text-align:left; line-height:20px;}
+
+.list_text{font-family: Arial, Helvetica, sans-serif; font-size:12px; text-align:left; padding-left:10px; padding-top:5px; padding-bottom:5px; color:#515050; text-decoration:none; line-height:18px; border-bottom:1px solid #f2f2f2; }
+
+.red_text{font-family: Arial, Helvetica, sans-serif; font-size:12px; text-align:left; color:#ff0000; text-decoration:none; }
+
+.form_head{font-family: Arial, Helvetica, sans-serif; font-weight:bold; padding-left:10px; font-size:12px; text-align:left; color:#333; text-decoration:none; line-height:30px;}
+
+.form_head1{font-family: Arial, Helvetica, sans-serif; font-weight:bold; padding-left:10px; font-size:12px; text-align:left; color:#6b6356; text-decoration:none; line-height:16px;}
+
+a.backlink:link{font-family:Arial, Helvetica, sans-serif; font-size:12px; text-align:left; text-decoration:none; color:#494949; line-height:25px; text-transform:uppercase; font-weight:bold}
+a.backlink:visited{font-family:Arial, Helvetica, sans-serif; font-size:12px; text-align:left; text-decoration:none; color:#494949; line-height:25px; text-transform:uppercase; font-weight:bold}
+a.backlink:hover{color:#000;}
+
+.added_text{font-family: Arial, Helvetica, sans-serif; padding-left:15px; font-size:12px; text-align:left; color:#515050; text-decoration:none; line-height:30px; border-bottom:1px solid #f2f2f2;}
+
+.tooltip
+{
+font-family: Arial, Helvetica, sans-serif;
+font-size:12px;
+text-align:justify;
+line-height:16px;
+padding:5px 10px 5px 10px;
+color:#dfdfdf;
+}
+
+.no_recordbg{background:#fefec8; border:1px solid #f1aa2c;}
+
+.half_day{font-family: Arial, Helvetica, sans-serif; font-weight:bold; padding-left:10px; font-size:12px; text-align:left; color:#ff9000; text-decoration:none; line-height:30px; border-bottom:1px solid #f2f2f2;}
+
+.full_day{font-family: Arial, Helvetica, sans-serif; font-weight:bold; padding-left:10px; font-size:12px; text-align:left; color:#e42b00; text-decoration:none; line-height:30px; border-bottom:1px solid #f2f2f2;}
+
+.half_day1{font-family: Arial, Helvetica, sans-serif; font-weight:bold; padding-left:10px; font-size:13px; text-align:left; color:#ff9000; text-decoration:none; line-height:30px;}
+
+.full_day1{font-family: Arial, Helvetica, sans-serif; font-weight:bold; padding-left:10px; font-size:13px; text-align:left; color:#e42b00; text-decoration:none; line-height:30px;}
+
+.exam_head{font-family: Arial, Helvetica, sans-serif; font-weight:bold; padding-left:5px; padding-right:5px;font-size:12px; text-align:left; color:#097084; text-decoration:none; line-height:16px;}
+
+.exam_sno{font-family: Arial, Helvetica, sans-serif; font-size:12px; text-align:center; color:#515050; text-decoration:none; line-height:30px; border-bottom:1px solid #f2f2f2; font-weight:bold; }
+
+.exam_text{font-family: Arial, Helvetica, sans-serif; font-size:12px; padding-top:5px; padding-right:10px; text-align:left; color:#515050; text-decoration:none; line-height:16px; border-bottom:1px solid #f2f2f2; }
+
+.exam_subhead{background:#f9f7de;}
+
+.exam_subborder{ border:1px solid #e9e6c4; padding:3px 5px 3px 0px;}
+
+.review_datebg{background:url(../images/date.gif) no-repeat; height:53px; width:44px;}
+
+.review_date
+{
+	font-size:13px;
+	font-weight:bold;
+	font-family:Arial;
+	text-align:center;
+	color:#fff;
+	text-decoration:none;
+}
+
+.review_month{font-family: Arial, Helvetica, sans-serif; font-size:12px; text-align:center; color:#515050; text-decoration:none; border-bottom:1px solid #f2f2f2; font-weight:bold; }
+
+.review_head_bg{background:#f9f9f9; border:1px solid #f2f2f2; height:53px;}
+
+/*------------- End Inner Table Design -------------*/
+
+/* ------------------ Start Bala Section ------------------ */
+
+div.pagination {
+	padding: 8px 10px 8px 0px;
+	float:left;
+	margin: 3px; font-family:Verdana; font-size:8pt; text-decoration:none
+}
+
+div.pagination a {
+	margin: 2px;
+	border: 1px solid #e7e7e7;
+	background:#f9f9f9;
+	
+	text-decoration: none; /* no underline */
+	color: #616161;font-family:Verdana; font-size:8pt; padding-left:5px; padding-right:5px; padding-top:2px; padding-bottom:2px;
+}
+div.pagination a:hover, div.pagination a:active {
+	margin: 2px;
+		border: 1px solid #92dce9;
+		
+		background-color: #e1f3f6;
+		color: #20a1ba;font-family:Verdana; font-size:8pt; padding-left:5px; padding-right:5px; padding-top:2px; padding-bottom:2px; text-decoration:none;
+}
+div.pagination span.current {
+	margin: 2px;
+		border: 1px solid #92dce9;
+		
+		font-weight: bold;
+		background-color: #e1f3f6;
+		color: #20a1ba;font-family:Verdana; font-size:8pt; padding-left:5px; padding-right:5px; padding-top:2px; padding-bottom:2px;
+	}
+div.pagination span.disabled {
+		margin: 2px;
+		border: 1px solid #eeeeee;
+	
+		color: #999999;font-family:Verdana; font-size:8pt; padding-left:5px; padding-right:5px; padding-top:2px; padding-bottom:2px;
+	}
+			   
+/* ------------------ End Bala Section ------------------ */
+
+
+/*------------- Start Forum Table Design -------------*/
+
+.forum_headbg{background:#557bbb; border:1px solid #FFFFFF; }
+
+.forum_headtext{color: #fff; font-family:Verdana; font-size:12px; line-height:30px;}
+
+.forum_head_text1{color: #fff; font-family:Verdana; font-size:12px; padding-left:10px; line-height:30px;}
+
+.forum_head_bg{background:#d4dcec; border:1px solid #9ec7ce;}
+
+.forum_head_text{font-family: Arial, Helvetica, sans-serif; padding-left:10px; font-size:12px; text-align:left; color:#4f6fa6; text-decoration:none; line-height:16px;}
+
+a.forum_link:link{font-family: Arial, Helvetica, sans-serif; font-size:12px; color:#515050; text-decoration:none;}
+a.forum_link:visited{font-family: Arial, Helvetica, sans-serif; font-size:12px; color:#515050; text-decoration:none;}
+a.forum_link:hover{text-decoration:underline; color:#ea5207;}
+
+.forum_table_text{font-family: Arial, Helvetica, sans-serif; padding-left:10px; font-size:12px; text-align:left; color:#515050; text-decoration:none; line-height:18px; border-bottom:1px solid #f2f2f2;}
+
+.forum_table_text1{font-family: Arial, Helvetica, sans-serif; padding:10px 15px 10px 15px; text-align:justify; font-size:12px; color:#515050; text-decoration:none; line-height:18px;}
+
+.forum_left_text{background:#f9f9f9; border-right:1px solid #eeeeee; border-bottom:1px solid #eeeeee;}
+.forum_left_text_bor{border-bottom:1px solid #eeeeee;}
+
+.forum_left_text1{font-family: Arial, Helvetica, sans-serif; text-align:left; font-size:12px; color:#828282; text-decoration:none; line-height:18px; padding-left:10px;}
+
+.forum_left_text2{font-family: Arial, Helvetica, sans-serif; text-align:left; font-size:12px; color:#333333; text-decoration:none; line-height:18px;}
+
+a.forum_link1:link{font-family: Arial, Helvetica, sans-serif; text-align:left; font-size:12px; color:#ea5207; text-decoration:underline; line-height:16px;}
+a.forum_link1:visited{font-family: Arial, Helvetica, sans-serif; text-align:left; font-size:12px; color:#ea5207; text-decoration:underline; line-height:16px;}
+a.forum_link1:hover{text-decoration:none; color:#ea5207;}
+
+.forum_headbg1{background:#e68961; border:1px solid #FFFFFF; }
+
+.forum_head_bg1{background:#fde7dd; border:1px solid #9ec7ce;}
+
+.forum_head_text3{font-family: Arial, Helvetica, sans-serif; text-align:left; font-size:12px; text-decoration:none; line-height:18px; padding-left:10px;color:#b5785e;}
+
+.forum_table_text2{font-family: Arial, Helvetica, sans-serif; padding:10px 15px 10px 15px; text-align:justify; font-size:12px; color:#333; text-decoration:none; line-height:18px;}
+
+.forum_table_text3{font-family: Arial, Helvetica, sans-serif; padding:10px 15px 10px 15px; text-align:justify; font-size:12px; color:#333; text-decoration:none; line-height:18px;}
+
+.forum_head_text2{font-family: Arial, Helvetica, sans-serif; padding-left:10px; font-size:12px; text-align:left; color:#4f6fa6; text-decoration:none; line-height:16px;}
+
+/*------------- End Forum Table Design -------------*/
+
+
+.mark_broder{border:5px solid #f1f1f1;}
+
+.mark_broder1{border:1px solid #cbcbcb; border-collapse:collapse;}
+
+.mark_bg{background:#dfdfdf;}
+
+.mark_bg1{background:#777777;}
+
+.mark_head_text{font-family: Arial, Helvetica, sans-serif; padding-left:10px; font-size:12px; font-weight:bold; text-align:left; color:#666; text-decoration:none; line-height:16px;}
+
+.mark_total_text{font-family:Arial, Helvetica, sans-serif; padding-left:10px; font-size:14px; text-transform:uppercase; font-weight:bold; text-align:left; color:#333; text-decoration:none; line-height:16px;}
+
+.mark_total_text1{font-family:Arial, Helvetica, sans-serif; font-size:14px; text-transform:uppercase; font-weight:bold; text-align:center; color:#333; text-decoration:none; line-height:20px; padding-top:5px; padding-bottom:5px;}
+
+.result_pass{font-family:Arial, Helvetica, sans-serif; font-size:14px; text-transform:uppercase; font-weight:bold; text-align:center; color:#01862a; text-decoration:none; line-height:16px;}
+
+.result_fail{font-family:Arial, Helvetica, sans-serif; font-size:14px; text-transform:uppercase; font-weight:bold; text-align:center; color:#ed2222; text-decoration:none; line-height:16px;}
+
+
+.marks_head_text{font-family: Arial, Helvetica, sans-serif; font-size:12px; text-align:center; color:#097084; text-decoration:none; line-height:16px;}
+
+.subject_headding{font-family:Arial, Helvetica, sans-serif; font-size:12px; font-weight:bold; color:#333; padding-left:25px; text-align:left; line-height:40px; text-transform:uppercase;}
+
+.subject_headding_blue{color:#027c9f;}
+
+.sub_head_text{font-family: Arial, Helvetica, sans-serif; font-size:12px; text-align:center; color:#333; text-decoration:none; line-height:30px;}
+
+.sub_text{font-family:Arial, Helvetica, sans-serif; font-size:12px; font-weight:bold; text-align:center; color:#666; text-decoration:none; line-height:18px; padding-top:3px; padding-bottom:3px;}
+
+.sub_pass_text{font-family:Arial, Helvetica, sans-serif; font-size:12px; font-weight:bold; text-align:center; color:#01862a; text-decoration:none; line-height:18px; padding-top:3px; padding-bottom:3px;}
+
+.sub_fail_text{font-family:Arial, Helvetica, sans-serif; font-size:12px; font-weight:bold; text-align:center; color:#ed2222; text-decoration:none; line-height:18px; padding-top:3px; padding-bottom:3px;}
+
+.sub_headbg{background:#557bbb;}
+
+.subject_headding1{font-family:Arial, Helvetica, sans-serif; font-size:13px; font-weight:bold; color:#027c9f; text-align:center; line-height:25px; text-transform:uppercase;}
+
+.review_headtext{color: #fff; font-family:Verdana; padding-left:10px; font-size:12px; line-height:30px;}
+
+.review_exam_heading{font-weight:bold; text-align:left; line-height:40px; text-transform:uppercase; font-family:Arial, Helvetica, sans-serif; font-size:12px; padding-left:25px; color:#2c2c2c; text-decoration:none;}
+
+.review_exam_year{font-weight:bold; text-align:center; line-height:40px; text-transform:uppercase; font-family:Arial, Helvetica, sans-serif; font-size:13px; color:#2c2c2c; text-decoration:none;}
+
+.not_entry_bg{height:45px; background:#f9f9f9; border:1px solid #e6e6e6;}
+
+.not_entry_text{font-family:Arial, Helvetica, sans-serif; font-size:13px; font-weight:bold; color:#858585; text-decoration:none; line-height:18px; text-align:left;}
+
+.sub_head_top{ background:#f28125; font-family:Arial, Helvetica, sans-serif; font-size:13px; font-weight:bold; color:#fff; text-align:center; line-height:25px; text-transform:uppercase;}
+
+.top_text_bg{height:40px; background:#f9f9f9; border:1px solid #e6e6e6;}
+
+.top_head_text_blue{font-family:Arial, Helvetica, sans-serif; font-size:13px; font-weight:bold; color:#3c3c3c; text-align:right; line-height:25px;}
+
+.top_head_text_black{font-weight:bold; text-align:left; line-height:40px; font-family:Arial, Helvetica, sans-serif; font-size:13px; padding-left:5px; color:#027c9f; text-decoration:none;}
+
+a.examlink:link{font-family:Arial, Helvetica, sans-serif; font-size:14px; text-align:left; text-decoration:none; color:#333; line-height:25px; font-weight:bold}
+a.examlink:visited{font-family:Arial, Helvetica, sans-serif; font-size:13px; text-align:left; text-decoration:none; color:#333; line-height:25px; font-weight:bold}
+a.examlink:hover{color:#027e9d;}
+
+a.link:link, a.link:visited{font-family:Arial, Helvetica, sans-serif; font-size:12px; text-align:left; text-decoration:none; color:#993300; line-height:25px; font-weight:400; text-decoration:underline;}
+a.link:hover{color:#027e9d;text-decoration:none;}
+
+
+a.examlink1:link{font-family:Arial, Helvetica, sans-serif; font-size:12px; text-align:left; text-decoration:none; color:#027e9d; line-height:25px; text-transform:uppercase; font-weight:bold}
+a.examlink1:visited{font-family:Arial, Helvetica, sans-serif; font-size:12px; text-align:left; text-decoration:none; color:#027e9d; line-height:25px; text-transform:uppercase; font-weight:bold}
+a.examlink1:hover{color:#333;}
+
+
+.event_head{font-weight:bold; background:#dbf4f9; border-top:1px solid #baeaf4; border-bottom:1px solid #baeaf4; text-align:justify; padding-right:10px; padding-left:10px; padding-top:5px; padding-bottom:5px; line-height:16px; font-family: Arial, Helvetica, sans-serif; font-size:12px; color:#1c91a9; text-decoration:none;}
+
+.event_number{font-weight:bold; background:#dbf4f9; border-top:1px solid #baeaf4; border-bottom:1px solid #baeaf4; text-align:right; padding-right:10px; line-height:30px; font-family:Arial, Helvetica, sans-serif; font-size:13px; color:#000; text-decoration:none;}
+
+.event_text{font-family: Arial, Helvetica, sans-serif; font-size:12px;padding-right:5px; padding-left:5px; text-align:justify; color:#333; text-decoration:none; line-height:18px;}
+
+.event_datetext{font-family: Arial, Helvetica, sans-serif; font-size:12px; color:#e42b00; text-decoration:none;}
+
+
+
+.member_head{font-family: Arial, Helvetica, sans-serif; font-size:12px; font-weight:800; color:#333333; line-height:20px; background: #e9e9e9; padding-left:10px;}
+
+.note-txt{font-family: Arial, Helvetica, sans-serif; font-size:12px; font-weight:400; color:#FF0000; text-transform:none;}
+
+
+.member_text
+{
+font-family: Arial, Helvetica, sans-serif;
+font-size:12px;
+color:#000;
+font-weight:400;
+padding-left:10px;
+}
+
+.txt_box{width:100px;}
+
+#chk-div{width:168px; float:left; margin:0 0px 0px 20px; font-size:11px;}
+
+a.land-edit:link, a.land-edit:visited{font-family:Arial, Helvetica, sans-serif; font-size:12px; text-align:left; text-decoration:none; color:#fff; line-height:25px; text-transform:uppercase; font-weight:400; background:#7ba7dc; padding:3px 5px 3px 5px;}
+a.land-edit:hover{color:#FFFF00;}
+
+a.land-reg:link, a.land-reg:visited{font-family:Arial, Helvetica, sans-serif; font-size:12px; text-align:left; text-decoration:none; color:#FFFFFF; line-height:25px; text-transform:uppercase; font-weight:400; background:#99CC33; padding:3px 5px 3px 5px;}
+a.land-reg:hover{color:#FFFFFF;}
+
+a.link-all:link, a.link-all:visited{font-family:Arial, Helvetica, sans-serif; font-size:12px; text-align:left; text-decoration:none; color:#000; line-height:25px; font-weight:400; text-decoration:underline; }
+a.link-all:hover{color:#000; text-decoration:none;}
+

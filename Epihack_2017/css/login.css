@@ -1,0 +1,45 @@
+/* CSS Document */
+
+body{margin:0px; padding:0px; font-family:Arial, Helvetica, sans-serif; font-size:11px; color:#000000; line-height:20px;}
+
+/*------------- Start Login Box Table -------------*/
+
+.login_head{font-family:Arial, Helvetica, sans-serif; font-size:15px; font-weight:bold; color:#027c9f; text-align:center; line-height:20px; text-transform:uppercase;}
+
+.index_loginbox{background:url(../images/login_box.gif) no-repeat; width:414px; height:283px;}
+
+.error_table{background:#ffe5e5; border:1px solid #f99d9d;}
+
+.error_text{font-family:Verdana, Arial, Helvetica, sans-serif; font-size:12px; color:#cf2020; text-align:left; line-height:20px;}
+
+.login_formtext{font-family:Verdana, Arial, Helvetica, sans-serif; font-size:12px; color:#444444; text-align:left; line-height:40px;}
+
+.login_button{background:url(../images/login-btn.jpg) no-repeat; border:none; font-size:0px; color:#FFFFFF; height:24px; width:69px; text-indent:-99999px;}
+
+a.loginlink:link, a.loginlink:visited{font-family:Arial, Helvetica, sans-serif; font-size:12px; text-decoration:none; color:#464646;}
+a.loginlink:hover{color:#000; text-decoration:underline;}
+
+
+.a1, .a2, .a3, .a4{font-size:1px; overflow:hidden; display:block;}
+.a1 {height:1px; background:#d9d9d9; margin:0 5px;}
+.a2 {height:1px; background:#fff; border-right:2px solid #d9d9d9; border-left:2px solid #d9d9d9; margin:0 3px;}
+.a3 {height:1px; background:#fff; border-right:1px solid #d9d9d9; border-left:1px solid #d9d9d9; margin:0 2px;}
+.a4 {height:2px; background:#fff; border-right:1px solid #d9d9d9; border-left:1px solid #d9d9d9; margin:0 1px;}
+.contenta {background: #fff; border-right:1px solid #d9d9d9; border-left:1px solid #d9d9d9;}
+.contenta div {margin-left: 0px;}
+
+.opetaror-bg{background:url(../images/operator-bg.jpg) no-repeat; width:404px; height:45px; margin-top:10px;}
+
+.opetaror-txt{font-family:Arial, Helvetica, sans-serif; color:#333333; font-size:12px;}
+
+.txt-login {
+	width: 222px;
+	background: transparent url(../images/txt-bg.jpg) no-repeat;
+	color : #747862;
+	height:28px;
+	border:0;
+	padding:4px 8px;
+	margin-bottom:0px;
+}
+
+/*------------- End Login Box Table -------------*/

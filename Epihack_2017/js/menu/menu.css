@@ -1,0 +1,126 @@
+.chromestyle{
+width: 99%;
+}
+
+.chromestyle:after{ /*Add margin between menu and rest of content in Firefox*/
+content: "."; 
+display: block; 
+height: 0; 
+clear: both; 
+visibility: hidden;
+}
+
+.chromestyle ul{
+border:none;
+width: 100%;
+padding: 0px 0;
+padding-top:0px;
+margin: 0;
+
+text-align: left; /*set value to "left", "center", or "right"*/
+}
+
+.chromestyle ul li{
+display: inline;
+}
+
+.chromestyle ul li a{
+height:40px;font-size:11px;font-weight:bold; font-size:11px;
+font-family:Arial,Helvitica,sans-serif;
+padding: 0px 0px;
+color:#4c4c4c;
+margin: 0;
+border-right:1px solid #cccccc;
+text-decoration: none;
+background:url(../images/menu-line.gif) no-repeat right;
+text-shadow: 0px 1px 0px #f3f3f3;
+
+
+}
+
+.chromestyle ul li a:hover, .chromestyle ul li a.selected{ /*script dynamically adds a class of "selected" to the current active menu item*/
+background:none; /*THEME CHANGE HERE*/
+}
+
+/* ######### Style for Drop Down Menu ######### */
+
+.dropmenudiv{
+position:absolute;
+top: 0;
+margin-left:15px;
+border: 1px solid #dbdbdb; /*THEME CHANGE HERE*/
+border-bottom-width: 0;
+font:normal 11px Verdana;
+line-height:20px;
+z-index:100;
+background:#dbdbdb;
+width: 200px;
+visibility: hidden;
+}
+
+
+.dropmenudiv a{
+width: auto;
+display: block;
+text-indent: 3px;
+color:#444444;
+border-bottom: 1px solid #eaeaea; /*THEME CHANGE HERE*/
+padding: 4px 5px;
+text-decoration: none;
+}
+
+* html .dropmenudiv a{ /*IE only hack*/
+width: 100%;
+}
+
+.dropmenudiv a:hover{ /*THEME CHANGE HERE*/
+background-color: #c7c7c7;
+}
+
+
+.some {
+margin: 0;
+padding: 0;
+position: absolute;
+left: 0;
+top: 0;
+list-style-type: none;
+background: white;
+visibility: hidden;
+z-index: 500;
+border-bottom:2px solid #E10000;
+}
+.some div {
+padding:10px;
+width:167px;
+background:#f5f5f5;
+/*background:url(../images/sub-menu.gif) bottom left no-repeat;*/
+}
+.some div h3 {
+font-size:12px;
+color:#0981CB;
+margin-top:13px;
+padding-top:15px;
+border-top:1px solid #E4E4E4;
+}
+.some div a {
+font-size:11px;
+color:#000;
+text-decoration:none;
+display:block;
+padding:3px;
+margin-left:0px;
+margin-top:3px;
+border:0;
+font-family:Verdana, Arial, Helvetica, sans-serif;
+}
+.some div a:hover {
+font-size:11px;
+color:#0981CB;
+text-decoration:none;
+display:block;
+padding:3px;
+margin-left:0px;
+background:none;
+border:0;
+}
